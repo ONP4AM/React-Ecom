@@ -4,7 +4,7 @@ cloudinary.config({
     //cloud_name : process.env.CLOUDINARY_CLOUD_NAME,
     cloud_name: 'onp',
     //api_key:process.env.CLOUDINARY_API_KEY,
-    api_key:'812475635977469',
+    api_key:'',
     //api_secret: process.env.CLOUDINARY_API_SECRET,
     api_secret:'qzmJzVWqLVwFrPJEzL2w-OOZalY',
 });
