@@ -1,0 +1,25 @@
+{
+    "cSpell.words": [
+        "Asus",
+        "Resizer",
+        "antd",
+        "authtoken",
+        "maxlength",
+        "middlewares",
+        "removeimage",
+        "steelseries",
+        "toastify",
+        "uploadimages"
+    ],
+    "cSpell.ignoreWords": [
+        "cloud",
+        "cloudinary",
+        "database",
+        "ecom",
+        "localhost",
+        "mongodb",
+        "port",
+        "udemy"
+    ],
+    "compile-hero.disable-compile-files-on-did-save-code": false
+}
